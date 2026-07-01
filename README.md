@@ -61,9 +61,9 @@ Add project screenshots here after uploading.
 
 Example:
 
-![Topology](diagrams\Vijaywada Railway Project Topology.png)
+![Topology](diagrams/Vijaywada%20Railway%20Project%20Topology.png)
 
-![Architecture](diagrams\VJA-SC-Railways RCC1 Structure.png)
+![Architecture](diagrams/VJA-SC-Railways%20RCC1%20Structure.png)
 
 ---
 
