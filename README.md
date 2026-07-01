@@ -60,8 +60,10 @@ assets/          → Supporting resources
 Add project screenshots here after uploading.
 
 Example:
+## Network Topology
+![Topology](diagrams/VJA-SC-Railways%20Network%20Arch.png)
 
-![Topology](diagrams/Vijaywada%20Railway%20Project%20Topology.png)
+## Network Architechture
 
 ![Architecture](diagrams/VJA-SC-Railways%20RCC1%20Structure.png)
 
